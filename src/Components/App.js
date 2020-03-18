@@ -15,7 +15,7 @@ class App extends Component {
           <Route path="/Racelist" component={RaceList}  />
             
         </header>      
-      </div>
+      </div> 
     );
   }
 }
